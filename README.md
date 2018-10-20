@@ -1,9 +1,10 @@
 # vscode-nbpreviewer
-An extension for supercharging your Data Science workflow by previewing Jupyter Notebook within VS Code. View graphs and interact with Plotly visualizations from within VS Code. 
+
+This is a [fork](https://github.com/jithurjacob/vscode-nbpreviewer) which allows to render Jupyter Notebook correctly.
 
 <p align="center">
   <br /><br />
-  <img src="https://raw.githubusercontent.com/jithurjacob/vscode-nbpreviewer/master/images/jupyter.png" alt="logo" width="192">
+  <img src="https://raw.githubusercontent.com/colinfang/vscode-nbpreviewer/master/images/jupyter.png" alt="logo" width="192">
 </p>
 
 ## Preview
